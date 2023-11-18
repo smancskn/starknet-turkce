@@ -1,0 +1,8 @@
+StarkNet, Ethereum tabanlı bir ölçeklenebilirlik çözümüdür ve temelde zincir-dışı (off-chain) işlem yapma prensibine dayanır.
+StarkNet, StarkWare’in geliştirdiği STARK ispatı kullanılarak işlem hızını artırmak, maliyetleri düşürmek ve Ethereum ağı üzerindeki yoğunluğu azaltmak amacıyla tasarlanmıştır.
+
+Bu platform, kullanıcıların işlemlerini Ethereum zincirine doğrudan göndermek yerine, StarkNet üzerinde gerçekleştirmelerine olanak tanır. Bu off-chain işlemler daha sonra STARK ispatlarıyla doğrulanır ve Ethereum zincirine geri gönderilir. STARK ispatı, matematiksel olarak işlemlerin doğruluğunu ve güvenliğini sağlar, böylece zincir-dışı işlemlerin güvenilir bir şekilde Ethereum’a yansıtılmasını sağlar.
+
+
+starknet
+StarkNet’in StarkEx protokolüyle entegre çalışması, merkeziyetsiz borsalar (DEX’ler), ödeme sistemleri ve diğer uygulamalar için genellikle tercih edilir. Bu sayede yüksek performans, düşük işlem maliyetleri ve güvenli işlemler elde edilir. Kullanıcılar, daha hızlı işlem yapabilirken aynı zamanda Ethereum ağının genel performansını artırarak daha fazla kullanıcıya olanak tanır. Bu, ölçeklenebilirlik sorunlarına alternatif çözümler sunarak Ethereum ekosistemini genişletmeyi amaçlar.
